@@ -158,14 +158,14 @@ const added = sessions.filter((s) => !seen.has(s.id));
 
 if (!prev?.seen) {
   await notify(
-    'Volo watcher is live 🏐',
+    'Volo watcher is live',
     `Tracking ${sessions.length} open SF volleyball pickup(s). You’ll get pinged when new ones drop.`,
     { priority: 'default' }
   );
 } else if (added.length) {
   const lines = added.map((s) => `• ${s.name}`).join('\n');
   await notify(
-    added.length === 1 ? 'New Volo volleyball pickup 🏐' : `${added.length} new Volo volleyball pickups 🏐`,
+    added.length === 1 ? 'New Volo volleyball pickup!' : `${added.length} new Volo volleyball pickups 🏐`,
     lines
   );
 } else {
