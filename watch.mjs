@@ -165,7 +165,7 @@ if (!prev?.seen) {
 } else if (added.length) {
   const lines = added.map((s) => `• ${s.name}`).join('\n');
   await notify(
-    added.length === 1 ? 'New Volo volleyball pickup!' : `${added.length} new Volo volleyball pickups 🏐`,
+    added.length === 1 ? 'New Volo volleyball pickup!' : `${added.length} new Volo volleyball pickups`,
     lines
   );
 } else {
