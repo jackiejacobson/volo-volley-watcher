@@ -1,12 +1,31 @@
 {
   "seen": [
-    "a6871cb0-8b66-4b97-ac0c-c84f9fec9a8b"
+    "a6871cb0-8b66-4b97-ac0c-c84f9fec9a8b",
+    "3ae70cec-bf30-4722-a167-bda02d56d1ab",
+    "054b23a3-7edb-4fe6-a6c9-1faf7dece3ba",
+    "41244983-4a79-4a66-9674-01c936c9f9db",
+    "bc4b62ef-e48d-4dd9-9eda-1b235514f226"
   ],
   "current": [
     {
-      "id": "a6871cb0-8b66-4b97-ac0c-c84f9fec9a8b",
-      "start": "2026-11-04T04:30:00+00:00",
-      "name": "Tuesday 11/3 - Volleyball Pickup - Marina Middle School Marina 8:30PM"
+      "id": "3ae70cec-bf30-4722-a167-bda02d56d1ab",
+      "start": "2026-10-31T19:15:00+00:00",
+      "name": "Saturday 10/31 - Volleyball Pickup - Telegraph Hill Community Center North Beach 12:15PM"
+    },
+    {
+      "id": "054b23a3-7edb-4fe6-a6c9-1faf7dece3ba",
+      "start": "2026-11-11T03:00:00+00:00",
+      "name": "Tuesday 11/10 - Volleyball Pickup - Marina Middle School Marina 7PM"
+    },
+    {
+      "id": "41244983-4a79-4a66-9674-01c936c9f9db",
+      "start": "2026-11-11T04:30:00+00:00",
+      "name": "Tuesday 11/10 - Volleyball Pickup - Marina Middle School Marina 8:30PM"
+    },
+    {
+      "id": "bc4b62ef-e48d-4dd9-9eda-1b235514f226",
+      "start": "2026-11-11T05:30:00+00:00",
+      "name": "Tuesday 11/10 - Volleyball Pickup - Mission High School (Lower Gym) 9:30PM"
     }
   ],
   "fails": 0
