@@ -1,5 +1,13 @@
 {
-  "seen": [],
-  "current": [],
+  "seen": [
+    "a6871cb0-8b66-4b97-ac0c-c84f9fec9a8b"
+  ],
+  "current": [
+    {
+      "id": "a6871cb0-8b66-4b97-ac0c-c84f9fec9a8b",
+      "start": "2026-11-04T04:30:00+00:00",
+      "name": "Tuesday 11/3 - Volleyball Pickup - Marina Middle School Marina 8:30PM"
+    }
+  ],
   "fails": 0
 }
