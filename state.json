@@ -11,27 +11,6 @@
     "54cd312b-d79c-437e-837d-3392e4bd334e",
     "5b75b818-1c60-4b3e-84b1-c88c42625423"
   ],
-  "current": [
-    {
-      "id": "a5c240b5-5f06-4fe0-b664-dbc49fa44fd9",
-      "start": "2026-11-03T02:30:00+00:00",
-      "name": "Monday 11/2 - Volleyball Pickup- Telegraph Hill Community Center North Beach 6:30PM"
-    },
-    {
-      "id": "c1641cab-c2fb-4cf9-97c4-29bf310ad961",
-      "start": "2026-11-03T03:00:00+00:00",
-      "name": "Monday 11/2 - Volleyball Pickup - Marina Middle School Marina 7PM"
-    },
-    {
-      "id": "d2bd27fa-82bd-41bc-a4c2-66e5e970021a",
-      "start": "2026-11-03T03:45:00+00:00",
-      "name": "Monday 11/2 - Volleyball Pickup- Telegraph Hill Community Center North Beach 7:45PM"
-    },
-    {
-      "id": "54cd312b-d79c-437e-837d-3392e4bd334e",
-      "start": "2026-11-03T04:30:00+00:00",
-      "name": "Monday 11/2 - Volleyball Pickup - Marina Middle School Marina 8:30PM"
-    }
-  ],
+  "current": [],
   "fails": 0
 }
