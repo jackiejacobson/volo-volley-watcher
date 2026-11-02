@@ -9,8 +9,15 @@
     "c1641cab-c2fb-4cf9-97c4-29bf310ad961",
     "d2bd27fa-82bd-41bc-a4c2-66e5e970021a",
     "54cd312b-d79c-437e-837d-3392e4bd334e",
-    "5b75b818-1c60-4b3e-84b1-c88c42625423"
+    "5b75b818-1c60-4b3e-84b1-c88c42625423",
+    "217c0953-1acb-4edd-8eb9-e33768a3cec2"
   ],
-  "current": [],
+  "current": [
+    {
+      "id": "217c0953-1acb-4edd-8eb9-e33768a3cec2",
+      "start": "2026-11-03T02:15:00+00:00",
+      "name": "Monday 11/2 - Volleyball Pickup - John O'Connell - Gymnasium The Mission 6:15PM"
+    }
+  ],
   "fails": 0
 }
