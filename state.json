@@ -10,8 +10,15 @@
     "d2bd27fa-82bd-41bc-a4c2-66e5e970021a",
     "54cd312b-d79c-437e-837d-3392e4bd334e",
     "5b75b818-1c60-4b3e-84b1-c88c42625423",
-    "217c0953-1acb-4edd-8eb9-e33768a3cec2"
+    "217c0953-1acb-4edd-8eb9-e33768a3cec2",
+    "aea75826-3e01-49ad-9513-93f89e72f90b"
   ],
-  "current": [],
+  "current": [
+    {
+      "id": "aea75826-3e01-49ad-9513-93f89e72f90b",
+      "start": "2026-11-04T05:30:00+00:00",
+      "name": "Tuesday 11/3 - Volleyball Pickup - Mission High School (Lower Gym) 9:30PM"
+    }
+  ],
   "fails": 0
 }
