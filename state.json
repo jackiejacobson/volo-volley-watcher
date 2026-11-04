@@ -15,27 +15,6 @@
     "c99b0bfd-ab00-4bd0-9f51-87bd60f08b31",
     "6d4b273c-2639-43c6-970e-1567c7185314"
   ],
-  "current": [
-    {
-      "id": "a6871cb0-8b66-4b97-ac0c-c84f9fec9a8b",
-      "start": "2026-11-04T04:30:00+00:00",
-      "name": "Tuesday 11/3 - Volleyball Pickup - Marina Middle School Marina 8:30PM"
-    },
-    {
-      "id": "aea75826-3e01-49ad-9513-93f89e72f90b",
-      "start": "2026-11-04T05:30:00+00:00",
-      "name": "Tuesday 11/3 - Volleyball Pickup - Mission High School (Lower Gym) 9:30PM"
-    },
-    {
-      "id": "c99b0bfd-ab00-4bd0-9f51-87bd60f08b31",
-      "start": "2026-11-06T02:30:00+00:00",
-      "name": "Thursday 11/5 - Volleyball Pickup- Jewish Community Center of San Francisco Lower Pacific Heights 6:30PM"
-    },
-    {
-      "id": "6d4b273c-2639-43c6-970e-1567c7185314",
-      "start": "2026-11-06T04:00:00+00:00",
-      "name": "Thursday 11/5 - Volleyball Pickup- Jewish Community Center of San Francisco Lower Pacific Heights 8PM"
-    }
-  ],
+  "current": [],
   "fails": 0
 }
