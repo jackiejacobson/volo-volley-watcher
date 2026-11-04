@@ -13,8 +13,21 @@
     "217c0953-1acb-4edd-8eb9-e33768a3cec2",
     "aea75826-3e01-49ad-9513-93f89e72f90b",
     "c99b0bfd-ab00-4bd0-9f51-87bd60f08b31",
-    "6d4b273c-2639-43c6-970e-1567c7185314"
+    "6d4b273c-2639-43c6-970e-1567c7185314",
+    "0731dde3-6d70-4c9d-88a9-c80566a24c70",
+    "49cb3a3f-bce3-4838-aa64-85b51a9b2dac"
   ],
-  "current": [],
+  "current": [
+    {
+      "id": "0731dde3-6d70-4c9d-88a9-c80566a24c70",
+      "start": "2026-11-05T02:30:00+00:00",
+      "name": "Wednesday 11/4 - Volleyball Pickup - Telegraph Hill Community Center North Beach 6:30PM"
+    },
+    {
+      "id": "49cb3a3f-bce3-4838-aa64-85b51a9b2dac",
+      "start": "2026-11-05T03:45:00+00:00",
+      "name": "Wednesday 11/4 - Volleyball Pickup - Telegraph Hill Community Center North Beach 7:45PM"
+    }
+  ],
   "fails": 0
 }
