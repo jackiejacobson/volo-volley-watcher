@@ -17,13 +17,20 @@
     "0731dde3-6d70-4c9d-88a9-c80566a24c70",
     "49cb3a3f-bce3-4838-aa64-85b51a9b2dac",
     "275806e5-d3f1-4ee8-916e-549e109aa054",
-    "b935dbd0-3110-4c10-9923-067fc445e70a"
+    "b935dbd0-3110-4c10-9923-067fc445e70a",
+    "95d884a2-0c71-4ad9-b9bd-88355a614f15",
+    "17b4bf21-bc58-4003-a053-43ba80da66c9"
   ],
   "current": [
     {
-      "id": "b935dbd0-3110-4c10-9923-067fc445e70a",
-      "start": "2026-11-19T05:00:00+00:00",
-      "name": "Wednesday 11/18 - Volleyball Pickup - Mission High School (Lower Gym) 9PM"
+      "id": "95d884a2-0c71-4ad9-b9bd-88355a614f15",
+      "start": "2026-11-11T02:00:00+00:00",
+      "name": "Tuesday 11/10 - Beach Volleyball Pickup - Mission Bay Park Mission Bay 6PM"
+    },
+    {
+      "id": "17b4bf21-bc58-4003-a053-43ba80da66c9",
+      "start": "2026-11-18T02:00:00+00:00",
+      "name": "Tuesday 11/17 - Beach Volleyball Pickup - Mission Bay Park Mission Bay 6PM"
     }
   ],
   "fails": 0
