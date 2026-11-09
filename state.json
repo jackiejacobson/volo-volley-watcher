@@ -19,7 +19,9 @@
     "275806e5-d3f1-4ee8-916e-549e109aa054",
     "b935dbd0-3110-4c10-9923-067fc445e70a",
     "95d884a2-0c71-4ad9-b9bd-88355a614f15",
-    "17b4bf21-bc58-4003-a053-43ba80da66c9"
+    "17b4bf21-bc58-4003-a053-43ba80da66c9",
+    "9ea4a039-f2e1-47a9-9dc8-53bf464eeec4",
+    "b27dfb50-c98e-4810-8a8f-701ae6c66b4a"
   ],
   "current": [
     {
@@ -31,6 +33,16 @@
       "id": "17b4bf21-bc58-4003-a053-43ba80da66c9",
       "start": "2026-11-18T02:00:00+00:00",
       "name": "Tuesday 11/17 - Beach Volleyball Pickup - Mission Bay Park Mission Bay 6PM"
+    },
+    {
+      "id": "9ea4a039-f2e1-47a9-9dc8-53bf464eeec4",
+      "start": "2026-11-20T02:30:00+00:00",
+      "name": "Thursday 11/19 - Volleyball Pickup- Jewish Community Center of San Francisco Lower Pacific Heights 6:30PM"
+    },
+    {
+      "id": "b27dfb50-c98e-4810-8a8f-701ae6c66b4a",
+      "start": "2026-11-20T04:00:00+00:00",
+      "name": "Thursday 11/19 - Volleyball Pickup- Jewish Community Center of San Francisco Lower Pacific Heights 8PM"
     }
   ],
   "fails": 0
