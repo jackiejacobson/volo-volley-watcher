@@ -27,12 +27,6 @@
     "2b759ddd-943b-4631-9ef4-9df7d0006546",
     "d7b4d981-32a3-47b7-b5bf-946d491479c4"
   ],
-  "current": [
-    {
-      "id": "d7b4d981-32a3-47b7-b5bf-946d491479c4",
-      "start": "2026-11-12T02:30:00+00:00",
-      "name": "Wednesday 11/11 - Volleyball Pickup (6v6) - Telegraph Hill Community Center North Beach 6:30PM"
-    }
-  ],
+  "current": [],
   "fails": 0
 }
