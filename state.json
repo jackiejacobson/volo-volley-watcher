@@ -25,8 +25,15 @@
     "92370141-6fb4-4bc1-b11c-44afa895f181",
     "06e4542e-3208-4afc-bc3c-4f079d1e46fb",
     "2b759ddd-943b-4631-9ef4-9df7d0006546",
-    "d7b4d981-32a3-47b7-b5bf-946d491479c4"
+    "d7b4d981-32a3-47b7-b5bf-946d491479c4",
+    "bc8ee46e-bb1c-4795-b7bb-0a7887c4ae22"
   ],
-  "current": [],
+  "current": [
+    {
+      "id": "bc8ee46e-bb1c-4795-b7bb-0a7887c4ae22",
+      "start": "2026-11-13T04:00:00+00:00",
+      "name": "Thursday 11/12 - Volleyball Pickup- Jewish Community Center of San Francisco Lower Pacific Heights 8PM"
+    }
+  ],
   "fails": 0
 }
