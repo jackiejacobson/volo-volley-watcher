@@ -27,18 +27,20 @@
     "2b759ddd-943b-4631-9ef4-9df7d0006546",
     "d7b4d981-32a3-47b7-b5bf-946d491479c4",
     "bc8ee46e-bb1c-4795-b7bb-0a7887c4ae22",
-    "2c004b01-3874-4eb9-ae0d-7609a1ae192c"
+    "2c004b01-3874-4eb9-ae0d-7609a1ae192c",
+    "4c53c017-c816-4f00-ae77-bf6597e0571c",
+    "62d51d7e-36f9-4cee-a825-32019c2bc061"
   ],
   "current": [
     {
-      "id": "2c004b01-3874-4eb9-ae0d-7609a1ae192c",
-      "start": "2026-11-17T04:30:00+00:00",
-      "name": "Monday 11/16 - Volleyball Pickup - John O'Connell - Gymnasium The Mission 8:30PM"
+      "id": "4c53c017-c816-4f00-ae77-bf6597e0571c",
+      "start": "2026-11-21T20:15:00+00:00",
+      "name": "Saturday 11/21 - Volleyball Pickup - Telegraph Hill Community Center North Beach 12:15PM"
     },
     {
-      "id": "275806e5-d3f1-4ee8-916e-549e109aa054",
-      "start": "2026-11-18T05:30:00+00:00",
-      "name": "Tuesday 11/17 - Volleyball Pickup - Mission High School (Lower Gym) 9:30PM"
+      "id": "62d51d7e-36f9-4cee-a825-32019c2bc061",
+      "start": "2026-11-21T21:35:00+00:00",
+      "name": "Saturday 11/21 - Volleyball Pickup - Telegraph Hill Community Center North Beach 1:35PM"
     }
   ],
   "fails": 0
