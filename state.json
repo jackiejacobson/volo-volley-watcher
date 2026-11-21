@@ -38,6 +38,17 @@
     "a7877c62-2066-4122-830e-20870e586cfb",
     "77a97fe4-002b-4ec6-ae96-0b5744c291c4"
   ],
-  "current": [],
+  "current": [
+    {
+      "id": "4c53c017-c816-4f00-ae77-bf6597e0571c",
+      "start": "2026-11-21T20:15:00+00:00",
+      "name": "Saturday 11/21 - Volleyball Pickup - Telegraph Hill Community Center North Beach 12:15PM"
+    },
+    {
+      "id": "5e145f61-eb71-44ab-b331-f704437d7ac6",
+      "start": "2026-11-25T02:00:00+00:00",
+      "name": "Tuesday 11/24 - Beach Volleyball Pickup - Mission Bay Park Mission Bay 6PM"
+    }
+  ],
   "fails": 0
 }
