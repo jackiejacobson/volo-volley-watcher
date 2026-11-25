@@ -36,8 +36,15 @@
     "9d5e984c-a7f0-456f-a4cf-10276fdf1a9e",
     "04b1273e-6f7b-4b02-b7b6-e1bc257d13cf",
     "a7877c62-2066-4122-830e-20870e586cfb",
-    "77a97fe4-002b-4ec6-ae96-0b5744c291c4"
+    "77a97fe4-002b-4ec6-ae96-0b5744c291c4",
+    "85434133-ce76-4183-89dc-bd3d0bc242b9"
   ],
-  "current": [],
+  "current": [
+    {
+      "id": "85434133-ce76-4183-89dc-bd3d0bc242b9",
+      "start": "2026-12-02T02:00:00+00:00",
+      "name": "Tuesday 12/1 - Beach Volleyball - Mission Bay Park Mission Bay 6PM"
+    }
+  ],
   "fails": 0
 }
