@@ -42,13 +42,25 @@
     "efbef084-59bf-45a3-b615-2a064a2f1e8c",
     "34934557-dc55-4468-8356-12cfdbc66571",
     "c216d512-2167-4a5b-ab71-d7dff2766a4f",
-    "93cc8d41-82e4-43e8-b20e-7fe75a2ee83b"
+    "93cc8d41-82e4-43e8-b20e-7fe75a2ee83b",
+    "22bd83a4-fea0-41a2-ae33-c3f23028fecd",
+    "4bd1421b-432d-4968-93b4-bdc8a633d06b"
   ],
   "current": [
     {
       "id": "85434133-ce76-4183-89dc-bd3d0bc242b9",
       "start": "2026-12-02T02:00:00+00:00",
       "name": "Tuesday 12/1 - Beach Volleyball - Mission Bay Park Mission Bay 6PM"
+    },
+    {
+      "id": "22bd83a4-fea0-41a2-ae33-c3f23028fecd",
+      "start": "2026-12-09T04:30:00+00:00",
+      "name": "Tuesday 12/8 - Pickup Volleyball (Intermediate 6v6) - Marina Middle School Marina 8:30PM"
+    },
+    {
+      "id": "4bd1421b-432d-4968-93b4-bdc8a633d06b",
+      "start": "2026-12-09T05:00:00+00:00",
+      "name": "Tuesday 12/8 - Pickup Volleyball - Mission High School - Lower Gym - The Mission 9pm"
     }
   ],
   "fails": 0
